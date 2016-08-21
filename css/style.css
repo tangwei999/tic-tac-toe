@@ -1,3 +1,78 @@
 h1 {
   color: purple;
+  text-align: center;
+  padding: 30px;
+}
+
+.all-grids {
+  margin: 0 auto;
+  width: 310px;
+}
+
+.all-grids div {
+  text-align: center;
+  padding-top: 20px;
+}
+
+#one {
+  height: 100px;
+  width: 100px;
+  background-color: #57BF70;
+  display: inline-block;
+}
+
+#two {
+  height: 100px;
+  width: 100px;
+  background-color: #57BF70;
+  display: inline-block;
+}
+
+#three {
+  height: 100px;
+  width: 100px;
+  background-color: #57BF70;
+  display: inline-block;
+}
+
+#four {
+  height: 100px;
+  width: 100px;
+  background-color: #57BF70;
+  display: inline-block;
+}
+
+#five {
+  height: 100px;
+  width: 100px;
+  background-color: #57BF70;
+  display: inline-block;
+}
+
+#six {
+  height: 100px;
+  width: 100px;
+  background-color: #57BF70;
+  display: inline-block;
+}
+
+#seven {
+  height: 100px;
+  width: 100px;
+  background-color: #57BF70;
+  display: inline-block;
+}
+
+#eight {
+  height: 100px;
+  width: 100px;
+  background-color: #57BF70;
+  display: inline-block;
+}
+
+#nine {
+  height: 100px;
+  width: 100px;
+  background-color: #57BF70;
+  display: inline-block;
 }
