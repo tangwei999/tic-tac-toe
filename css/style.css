@@ -4,6 +4,12 @@ h1 {
   padding: 30px;
 }
 
+h2 {
+  color: black;
+  text-align: center;
+  padding: 15px;
+}
+
 .all-grids {
   margin: 0 auto;
   width: 310px;
@@ -14,63 +20,64 @@ h1 {
   padding-top: 20px;
 }
 
-#one {
+#g0 {
+  height: 100px;
+  width: 100px;
+  background-color: #57BF70;
+  display: inline-block;
+
+}
+
+#g1 {
   height: 100px;
   width: 100px;
   background-color: #57BF70;
   display: inline-block;
 }
 
-#two {
+#g2 {
   height: 100px;
   width: 100px;
   background-color: #57BF70;
   display: inline-block;
 }
 
-#three {
+#g3 {
   height: 100px;
   width: 100px;
   background-color: #57BF70;
   display: inline-block;
 }
 
-#four {
+#g4 {
   height: 100px;
   width: 100px;
   background-color: #57BF70;
   display: inline-block;
 }
 
-#five {
+#g5 {
   height: 100px;
   width: 100px;
   background-color: #57BF70;
   display: inline-block;
 }
 
-#six {
+#g6 {
   height: 100px;
   width: 100px;
   background-color: #57BF70;
   display: inline-block;
 }
 
-#seven {
+#g7 {
   height: 100px;
   width: 100px;
   background-color: #57BF70;
   display: inline-block;
 }
 
-#eight {
-  height: 100px;
-  width: 100px;
-  background-color: #57BF70;
-  display: inline-block;
-}
-
-#nine {
+#g8 {
   height: 100px;
   width: 100px;
   background-color: #57BF70;
